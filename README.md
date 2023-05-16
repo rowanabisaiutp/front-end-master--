@@ -31,7 +31,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Descripcion de todos lo metodos usados GET, PUT, DELETE, UPDATE, con imagenes 
 
-## GET
-
-El metodo GET obtiene todos los datos de los producto y los lista en una tabla 
-![Alt text](../../../OneDrive/Im%C3%A1genes/images-angular/Captura%20de%20pantalla%20(496).png)
